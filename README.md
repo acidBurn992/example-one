@@ -1,2 +1,2 @@
 # example-one
-Tests
+cypressLogInTest
